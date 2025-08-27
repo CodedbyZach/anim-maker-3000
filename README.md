@@ -27,6 +27,8 @@ chmod -x install.sh
 
 ### **Note: it auto runs the animation maker when you run the installer**
 
+**Windows (Powershell):**
+
 ```powershell
 ./run.ps1
 ```
@@ -43,3 +45,4 @@ chmod -x install.sh
 ```bash
 ^C
 ```
+
