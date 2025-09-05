@@ -23,7 +23,7 @@ chmod -x install.sh
 ```
 
 
-## 5) Run the app
+## 3) Run the app
 
 ### **Note: it auto runs the animation maker when you run the installer**
 
@@ -45,4 +45,5 @@ chmod -x install.sh
 ```bash
 ^C
 ```
+
 
