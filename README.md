@@ -25,8 +25,6 @@ chmod +x install.sh
 
 ## 3) Run the app
 
-### **Note: it auto runs the animation maker when you run the installer**
-
 **Windows (Powershell):**
 
 ```powershell
@@ -45,6 +43,7 @@ chmod +x install.sh
 ```bash
 ^C
 ```
+
 
 
 
