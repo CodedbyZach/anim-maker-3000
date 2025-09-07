@@ -18,7 +18,7 @@ cd anim-maker-3000
 
 **macOS / Linux:**
 ```bash
-chmod -x install.sh
+chmod +x install.sh
 ./install.sh
 ```
 
@@ -35,7 +35,7 @@ chmod -x install.sh
 
 **macOS / Linux:**
 
-### **Note: you don't need to chmod -x the run.sh because it becomes executable at installation.**
+### **Note: you don't need to chmod +x the run.sh because it becomes executable at installation.**
 
 ```bash
 ./run.sh
@@ -45,6 +45,7 @@ chmod -x install.sh
 ```bash
 ^C
 ```
+
 
 
 
