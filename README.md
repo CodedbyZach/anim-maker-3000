@@ -6,8 +6,8 @@
 
 ## 1) Get the code
 ```bash
-git clone https://github.com/CodedbyZach/ask-zac.git
-cd AskZac
+git clone https://github.com/CodedbyZach/anim-maker-3000.git
+cd anim-maker-3000
 ```
 
 ## 2) Create & activate a virtual environment
@@ -45,5 +45,6 @@ chmod -x install.sh
 ```bash
 ^C
 ```
+
 
 
