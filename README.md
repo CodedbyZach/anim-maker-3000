@@ -33,7 +33,7 @@ chmod +x install.sh
 
 **macOS / Linux:**
 
-### **Note: you don't need to chmod +x the run.sh because it becomes executable at installation.**
+### **Note: you don't need to make run.sh executable, because it becomes executable at installation.**
 
 ```bash
 ./run.sh
@@ -43,6 +43,7 @@ chmod +x install.sh
 ```bash
 ^C
 ```
+
 
 
 
